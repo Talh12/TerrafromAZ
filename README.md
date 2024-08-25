@@ -98,6 +98,9 @@ The Function App is configured to serve static files from an Azure Blob Storage 
    - Review logs and metrics to troubleshoot any deployment or runtime issues.
 
 ### Proof of Work
+
+![](./images/html.png)
+
 ![](./images/rg.png)
 
 ![](./images/fa.png)
